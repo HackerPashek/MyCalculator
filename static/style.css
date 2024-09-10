@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+}
+
+input {
+	color: white;
+	background-color: black;
+	width: 40vh;
+	height: 10vh;
+	border-radius: 40%;
+	font-size: 5vh;
+	text-align: center;
+	cursor: text;
+}
+
+button {
+	color: white;
+	background-color: black;
+	font-size: 5vh;
+	width: 10vh;
+	height: 10vh;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.special {
+	background-color: gray;
+}
+
+.equal {
+	background-color: orange;
+}
